@@ -1,2 +1,4 @@
-# Air-Sinba
-Projeto da disciplina de Circuitos Lógicos, do 1º período de Engenharia de Computação.
+# AirSinba-ProjetoCL
+Projeto final da disciplina de Circuitos Lógicos, do 1º período de Engenharia de Computação.
+
+o Air SinbAH é um protótipo de uma mesa de Air hockey com um preço bem mais baixo do que os convencionais no mercado atual, é feita com materiais reciclados, sendo idealizado para entreter o público alvo. Materiais utilizados para a parte eletrônica foram decodificadores e contadores de décadas em sua maioria, já na parte da estrutura do projeto, foram usados matérias como MDF e pedaços de madeira. Para aprimorarmos o circuito, inicialmente idealizamos ele no Proteus, um programa capaz de simular o ambiente do circuito, posteriormente aplicamos o que desenvolvemos no Proteus e aplicamos, utilizando uma série de componentes. O projeto final foi fruto de diversos testes anteriores, em busca de obter os melhores resultados, com alguns testes, percebemos que os furos da mesa ficaram com um diâmetro menor do que esperado, sendo aumentado posteriormente. O Air SinbAH hockey entrega o resultado esperado pelos alunos, com uma boa qualidade e uma boa jogabilidade.
